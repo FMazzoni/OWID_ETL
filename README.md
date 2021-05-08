@@ -1,7 +1,7 @@
 OWID_Project
 ==============================
 
-OWID Dataset Extraction and Analysis
+OWID Dataset Extraction and Analysis. Using SQL Lite tools, Unit testing, and Data Analysis.
 
 Project Organization
 ------------
